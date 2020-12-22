@@ -20,7 +20,7 @@ Please cite our paper if you use this code in your own work:
 @misc{yao2020manifold,
     title={Manifold Fitting by Ridge Estimation: A Subspace-Constrained Approach},
     author={Zhigang Yao and Zheng Zhai},
-    year={202},
+    year={2020},
 }
 ```
 
