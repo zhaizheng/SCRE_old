@@ -1,4 +1,4 @@
-# manifold-fitting
+# SCRE
 
 This is a MATLAB implementation of  our manifold fitting method, as described in our paper
 	Yao, Z. and Zhai Z. (2020). [Manifold Fitting by Ridge Estimation: A Subspace-Constrained Approach]
