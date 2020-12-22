@@ -6,7 +6,7 @@ This is a MATLAB implementation of  our manifold fitting method, as described in
 
 ## run the demo
  
- Go into the folder demos and run 
+ Go into the folder ‘demos’ and run 
 
 ```
 sphere_demo.m
